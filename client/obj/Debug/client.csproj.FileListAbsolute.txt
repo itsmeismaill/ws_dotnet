@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\bin\Debug\client.exe.config
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\bin\Debug\client.exe
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\bin\Debug\client.pdb
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.Form1.resources
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.exe
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\webexemple\client\obj\Debug\client.pdb
